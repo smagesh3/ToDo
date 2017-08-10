@@ -6,23 +6,26 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1502399336512"
+    timestamp="1502402198911"
     token="-7138877194021255762"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="176" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="52" />
     <task
         name="verifier"
-        duration="0" />
+        duration="5" />
 
+    <artifact
+        location="/Users/shreyamagesh/Documents/SummerThings/ToDo/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
     <artifact
         location="/Users/shreyamagesh/Documents/SummerThings/ToDo/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
@@ -48,9 +51,6 @@
         location="/Users/shreyamagesh/Documents/SummerThings/ToDo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/shreyamagesh/Documents/SummerThings/ToDo/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
         location="/Users/shreyamagesh/Documents/SummerThings/ToDo/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
@@ -62,8 +62,11 @@
 
     <build
         build-mode="FULL"
-        timestamp="1502399336512"
+        timestamp="1502402198911"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/shreyamagesh/Documents/SummerThings/ToDo/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/shreyamagesh/Documents/SummerThings/ToDo/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
@@ -87,9 +90,6 @@
             type="SPLIT" />
         <artifact
             location="/Users/shreyamagesh/Documents/SummerThings/ToDo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/shreyamagesh/Documents/SummerThings/ToDo/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/Users/shreyamagesh/Documents/SummerThings/ToDo/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
